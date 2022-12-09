@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dreezyagu
-- 👀 I’m a Mobile Developer
+- 👀 I’m a Mobile Engineer
 - 🌱 I’m an experienced developer using the Dart and Flutter tools
 - 💞️ I’m looking to collaborate on any Mobile application. iOS/Android
 - 📫 How to reach me- email: aaifeanyi20@outlook.com
